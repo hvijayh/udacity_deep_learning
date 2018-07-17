@@ -1,0 +1,8 @@
+# all .idea directory files
+.idea
+
+# pyenv config file
+.python-version
+
+__pycache__/
+*.py[cod]
